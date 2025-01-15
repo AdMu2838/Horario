@@ -286,7 +286,7 @@
         {
             "id": "ING",
             "nombre": "INGLES",
-            "color": "#228b22",
+            "color": "#228b40",
             "grupos": [
                 {
                     "grupo": "A",
