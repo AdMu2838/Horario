@@ -2,7 +2,7 @@
     "CursosTeoria": [
         {
             "id": "SD",
-            "nombre": "SISTEMAS DISTRIBUIDOS",
+            "nombre": "SISTEMAS DISTRIBUIDOS", 
             "color": "#577F92",
             "grupos": [
                 {
